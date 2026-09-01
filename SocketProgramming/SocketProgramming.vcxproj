@@ -140,7 +140,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="HelloWorldClient.cpp" />
+    <ClCompile Include="HelloWorldServer.cpp" />
     <ClCompile Include="pointerexercises.cpp" />
     <ClCompile Include="showip.cpp" />
     <ClCompile Include="test.cpp" />
