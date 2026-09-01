@@ -14,3 +14,7 @@ HelloWorldServer.exe
 #### Client
 cl /EHsc HelloWorldClient.c++
 HelloWorldClient.exe
+
+
+## Extras
+There are also some extra practice code from smaller tests and exercises whihc can be ignored.
